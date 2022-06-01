@@ -1,3 +1,3 @@
 # cv
 
-Meu primeiro contato com HTML e CSS
+Meu primeiro contato com HTML
